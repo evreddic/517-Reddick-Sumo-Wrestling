@@ -3,11 +3,15 @@
  Practice Repo #1
 
 
-## What is Sumo?
-
+## [What is Sumo?](https://www.japan-guide.com/e/e2080.html)
+Sumo is a full contact sport where two competitors try to force on another out of a circle ring through a variety of pulling and pushing strategies. The first person to be pushed out of the circuluar space is the loser. The match takes place on a elevated ring surface called a **Dohyo** and the competitors often fall off of it during the conclusion of the match due to the forceful nature of the sport. There is another person within the ring called the **Gyoji** or the referee of the match who determines who crossed over the circular boundry and into the outside area of the Dohyo. The Gyoji serve [another purpose](https://sumowrestling.fandom.com/wiki/Gyoji#:~:text=He%20will%20sometimes%20add%2C%20%22kamaete,after%20a%20good%20tachi%2Dai.) however, they also yell at the competitors throughout the match to motivate them to fight or continue to fight if there is a stalemate. 
 
 ### Cultural Signifigance 
+The sport of sumo originated from the country of Japan and has been a active sport since the Kofun Period (300-538). The sport combines concepts of Japanese culture, tradition, and spiritualism with many stemming from [Shintoism](https://www.greenshinto.com/sumos-shinto-spirit/).
 
+>**Sumo was originally performed in the Shinto (Japanese ethnic religion) rituals of purification and prayers for a good harvest.** -from [Toki](https://www.toki.tokyo/blogt/2017/6/21/sumo-national-sport#:~:text=Sumo%20was%20originally%20performed%20in,a%20form%20of%20public%20entertainment.)
+
+Sumo is the national sport of Japan and continues to bring enourmous crowds for matches through the year which are held in tournament fashion throughout major Japanese cities such as Kyoto. 
 
 
 ### Ranking System
