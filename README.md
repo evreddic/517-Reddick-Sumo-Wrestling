@@ -15,5 +15,8 @@ Sumo is the national sport of Japan and continues to bring enourmous crowds for 
 
 
 ### Ranking System
+Since sumo is played in a tournament fashion this allows for a flexibile and ever changing ranking system to be implemented based on the win/loss ratio of each sumo wrestler. The top division of sumo is called **Makunouchi**. This is where the best competitors are placed and some even have named rankings such as **Yokozuna**, the title given to the best wrestler. There are other divisions under Makunouchi but for now lets look at a breakdown of ranks within the Makunouchi division. 
+
+![Breakdown of Makunouchi Division](images/Makunouchi%20Breakdown.gif)
 
 
