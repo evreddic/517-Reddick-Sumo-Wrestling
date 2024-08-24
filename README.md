@@ -8,7 +8,7 @@ Sumo is a full contact sport where two competitors try to force one another out 
 
 **Here is some helpful vocabulary to know when watching sumo:**
  * _Banzuke_- A list of all participating wrestlers in the tournament
- * _Rikishi_ A title that sumo wrestlers are called no matter rank
+ * _Rikishi_- A title that sumo wrestlers are called no matter rank
  * _Chumoku-ichiban_- The most anticipated match of the day
  * _Dohyo-iri_- The ring entering ceremony at the start of the tournament day
  * _Kakuage_- A promotion in rank for a Rikishi 
